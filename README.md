@@ -6,5 +6,5 @@ This is a repository that contains all the smaller projects that I've done using
 
 
 
-1. [Credit Card Checker](https://github.com/MadhavMenon1007/Smaller-Projects/tree/main/Credit%20Card%20Checker) - 5/6/2021 to 6/6/2021 - JavaScript
+1. [Credit Card Checker](https://github.com/MadhavMenon1007/Smaller-Projects/tree/main/Credit%20Card%20Checker)- 6/6/2021 - JavaScript
 2. [Mysterious Organism](https://github.com/MadhavMenon1007/Smaller-Projects/tree/main/Mysterious%20Organism)- 6/6/2021 - JavaScript 
