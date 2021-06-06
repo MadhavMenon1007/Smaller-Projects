@@ -6,6 +6,6 @@ This is a repository that contains all the smaller projects that I've done using
 
 
 
-1. [a link](https://github.com/user/repo/blob/branch/other_file.md)(Credit Card Checker) - 5/6/2021 to 6/6/2021 - JavaScript
+1. [Credit Card Checker](Credit Card Checker) - 5/6/2021 to 6/6/2021 - JavaScript
 
-2. [a link](https://github.com/user/repo/blob/branch/other_file.md)(Mysterious Organism) - 6/6/2021 - JavaScript
+2. [Mysterious Organism](Mysterious Organism)(Mysterious Organism) - 6/6/2021 - JavaScript
