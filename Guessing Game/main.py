@@ -1,13 +1,10 @@
 print("\nWelcome to Madhav's guessing game! \n \n Rules: \n \n 1. The computer has thought of a number between 1 and 10  \n 2. You have three chances to guess the number and each incorrect guess leads to your chances decrementing by 1 \n \n Good Luck! \n")
 
 def guessing_game():
-
     import random
-
     num_chances=3
-
     number=random.randint(1,10) # This is the number from 1-10 the computer thinks of
-
+    
     try:
         guess=int(input("Guess the number: "))
 
@@ -65,11 +62,6 @@ def guessing_game():
                     else:
                         print("Please input either y or n")
                         exit()
-
-
-
-        
-
 
     except ValueError:
         print("Please input only an integer")
