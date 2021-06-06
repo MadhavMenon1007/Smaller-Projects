@@ -8,4 +8,5 @@ This is a repository that contains all the smaller projects that I've done using
 
 1. [my directory](Credit Card Checker) - 5/6/2021 to 6/6/2021 - JavaScript <img src="{https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black}" />
 
-2. [my directory](Mysterious Organism) - 6/6/2021 - JavaScript  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+2. [my directory](Mysterious Organism) - 6/6/2021 - JavaScript  
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
