@@ -9,8 +9,8 @@ def guessing_game():
         guess=int(input("Guess the number: "))
 
         if type(guess)!=int:
-
             print("Please input only an integer")
+            
         if guess==number:
             print("Correct :) You Win!") # If the guess is correct, the game ends'
             print("Thanks for playing!")
@@ -22,8 +22,6 @@ def guessing_game():
                 exit()  # Program ends
             else:
                 print("Please input either y or n")
-
-
         else:
             while guess!=number:   # This loop is repeated until either the number is guessed or three chances are used up
                 print("Your guess was not correct")
