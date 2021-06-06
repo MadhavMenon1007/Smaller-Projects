@@ -6,6 +6,6 @@ This is a repository that contains all the smaller projects that I've done using
 
 
 
-1. [my directory](Credit Card Checker) - 5/6/2021 to 6/6/2021 - 
+1. [my directory](Credit Card Checker) - 5/6/2021 to 6/6/2021 - JavaScript
 
-2. [my directory](Mysterious Organism) - 6/6/2021 - 
+2. [my directory](Mysterious Organism) - 6/6/2021 - JavaScript
