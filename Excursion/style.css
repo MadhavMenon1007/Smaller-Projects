@@ -1,5 +1,37 @@
-/*
+h1{
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+}
 
-CSS content goes here
+.download-link{
+    color: aquamarine;
+    font-size: 16px;
+}
 
-*/
+body{
+    background-color: black;
+    text-align: center;
+    font-family: verdana;
+}
+
+a:visited{
+    color: aquamarine;
+}
+
+
+.subheading{
+    font-weight: 300;
+    font-size: 42px;
+    color: White;
+}
+
+.description{
+    font-size: 21px;
+    color: Gray;
+}
+
+footer p{
+    text-align: right;
+    color: gray
+}
